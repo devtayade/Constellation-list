@@ -275,14 +275,26 @@
         "brightest star": " α Vulp"
 
     },
+
      {
-        "id": 35,
+        "id": 85,
         "name": "Columba",
         "image": "https://th.bing.com/th/id/OIP.MvZ4GB_KbFj-t7B6zC5UZAHaFg?pid=ImgDet&rs=1",
         "area": "270 sq. deg",
         "visibility": "easily visible to all viewers at latitudes between +45° and -90°. Columba contains one star brighter than magnitude 3 and it is called Alpha Columbae, or Phact",
         "bordering constellations": ["Caelum", "Canis Major", "Lepus", "Pictor","Puppis"],
         "brightest star": "Phact"
+},
+     
+    {
+        "id": 35,
+        "name": "Capricornus",
+        "image": "https://starregistration.net/constellations/capricornus-constellation.html",
+        "area": "414 sq deg",
+        "visibility": "Capricornus appears in the night sky from June through October in the Southern Hemisphere and from August until November in the Northern Hemisphere. ",
+        "bordering constellations": ["Aquarius" "Aquila" "Sagittarius" "Microscopium" "Piscis" "Austrinus"],
+        "brightest star": "Delta Capricorni"
+
 
     }
      
