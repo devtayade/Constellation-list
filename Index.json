@@ -307,6 +307,17 @@
         "brightest star": "Rotanev"
 
 
-    }
+    },
+      {
+        "id": 37,
+        "name": "Herdsman",
+        "image": "https://search.brave.com/images?origin=search&q=Herdsman%20constellation",
+        "area": "189 sq deg",
+        "visibility": "the constellation is dominated by the Kite, a diamond-shaped asterism formed by its brightest stars.",
+        "bordering constellations": ["Vulpecula" "Aquila" "Sagitta" " Aquarius" "Equuleus" "Pegasus"],
+        "brightest star": "asterism"
+
+
+    }  
     
 ]
