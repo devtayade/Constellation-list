@@ -296,6 +296,17 @@
         "brightest star": "Delta Capricorni"
 
 
+    },
+      {
+        "id": 36,
+        "name": " Delphinus",
+        "image": "https://theplanets.org/123/2021/03/Delphinus-1.png",
+        "area": "189 sq deg",
+        "visibility": "The constellation Delphinus, the dolphin, is visible in late summer from the Northern Hemisphere. It can be seen at latitudes between 90 degrees and -70 degrees.",
+        "bordering constellations": ["Vulpecula" "Aquila" "Sagitta" " Aquarius" "Equuleus" "Pegasus"],
+        "brightest star": "Rotanev"
+
+
     }
-     
+    
 ]
