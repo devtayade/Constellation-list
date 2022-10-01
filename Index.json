@@ -274,5 +274,16 @@
         "bordering constellations": ["Cygnus", "Delphinus", "Hercules", "Lyra", "Pegasus","Sagitta"],
         "brightest star": " α Vulp"
 
+    },
+     {
+        "id": 35,
+        "name": "Columba",
+        "image": "https://th.bing.com/th/id/OIP.MvZ4GB_KbFj-t7B6zC5UZAHaFg?pid=ImgDet&rs=1",
+        "area": "270 sq. deg",
+        "visibility": "easily visible to all viewers at latitudes between +45° and -90°. Columba contains one star brighter than magnitude 3 and it is called Alpha Columbae, or Phact",
+        "bordering constellations": ["Caelum", "Canis Major", "Lepus", "Pictor","Puppis"],
+        "brightest star": "Phact"
+
     }
+     
 ]
