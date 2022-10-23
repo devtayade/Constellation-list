@@ -329,7 +329,18 @@
         "brightest star": "asterism"
 
 
-    }  
+    },
+    {
+        "id": 39,
+        "name": "Cygnus",
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.universetoday.com%2Fwp-content%2Fuploads%2F2017%2F01%2FCygnus-KIC9832227-e1483705807860-1280x720.gif&imgrefurl=https%3A%2F%2Fwww.universetoday.com%2F20569%2Fcygnus-constellation%2F&tbnid=rX8jmAQNf7b0XM&vet=12ahUKEwiAsK2XzPb6AhWIgGMGHQJ_BY8QMygEegUIARDuAQ..i&docid=iWsPmgCMDXiKBM&w=1280&h=720&q=cygnus%20constellation&ved=2ahUKEwiAsK2XzPb6AhWIgGMGHQJ_BY8QMygEegUIARDuAQ",
+        "area": "804 sq deg",
+        "visibility": "Cygnus contains Deneb (ذنب, translit. ḏanab, tail) – one of the brightest stars in the night sky and the most distant first-magnitude star – as its  and one corner of the Summer Triangle.",
+        "bordering constellations": [" Cygnus is bordered by Cepheus to the north and east, Draco to the north and west, Lyra to the west, Vulpecula to the south, Pegasus to the southeast and Lacerta to the east.s"],
+        "brightest star": "Deneb"
+
+
+    }
 
     
 ]
