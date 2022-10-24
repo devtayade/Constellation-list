@@ -8,7 +8,7 @@
         "bordering constellations": ["Persaus", "Cassiopeia", "Lacerta", "Pegasus", "Pisces"],
         "brightest star": "α And"
     },
-        {
+     {
         "id": 2,
         "name": "Antlia",
         "image": "shorturl.at/xAHT9",
@@ -17,7 +17,7 @@
         "bordering constellations": ["Hydra", "Pyxis", "Vela", "Centaurus"],
         "brightest star": "	α Ant"
     },
-        {
+     {
         "id": 3,
         "name": "Apus",
         "image": "shorturl.at/sPZ459",
@@ -26,24 +26,330 @@
         "bordering constellations": ["Triangulam Australe", "Circinus", "Musca", "Chamaeleon","Octans","Pavo","Ara"],
         "brightest star": "α Aps"
     },
-    {
+     {
         "id": 4,
         "name": "Aquarius",
         "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
-        "area": "441 sq deg",
-        "visibility": "Best visible at 21:00 (9 p.m.) during the month of December.",
+        "area": "980 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of October..",
         "bordering constellations": ["Persaus", "Triangulum", "Pisces", "Cetus", "Taurus"],
-        "brightest star": "Hamal"
+        "brightest star": "β Aqr"
     },
-        {
+     {
         "id": 5,
         "name": "Aries",
         "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
         "area": "441 sq deg",
         "visibility": "Best visible at 21:00 (9 p.m.) during the month of December.",
-        "bordering constellations": ["Persaus", "Triangulum", "Pisces", "Cetus", "Taurus"],
+        "bordering constellations": ["Persaus", "Triangulum", "Pisces", "Cetus", "TauruS"],
         "brightest star": "Hamal"
-    }
+
+    },
+     {
+        "id": 6,
+        "name": "Virgo",
+        "image": "https://en.wikipedia.org/wiki/File:Astrological_sign_Virgo_at_the_Wisconsin_State_Capitol.jpg",
+        "area": "1294 sd deg",
+        "visibility": "visible in the evening sky from mid-March to late June",
+        "bordering constellations": ["Boötes", "Coma Berenices", "Corvus", "Crater", "Hydra", "Leo", "Libra and Serpens Caput"],
+        "brightest star": "Spica"
+    },
+     {
+        "id": 7,
+        "name": "Cancer",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "506 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "β Cnc"
+    },
+     {
+        "id": 8,
+        "name": "Draco",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "1083 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "γ Dra"
+      },
+       {
+        "id": 9,
+        "name": "Crater",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "1083 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "γ Dra"
+      },
+       {
+        "id": 10,
+        "name": "Vigro",
+        "image": "https://kidadl.com/articles/valiant-virgo-facts-sure-to-please-every-earth-baby",
+        "area": "306 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of may",
+        "bordering constellations": ["leo", "hydra"],
+        "brightest star": "spica"
+        },
+         {
+             "id": 11,
+             "name": "Orion",
+             "image": "https://cdn.mos.cms.futurecdn.net/dkX3vVSXH5aKLHKdyB2FHK-970-80.jpg",
+             "area": "604 sq deg",
+             "visibility": "Best seen between latitudes 85 and minus 75 degrees. Its right ascension is 5 hours, and its declination is 5 degrees.",
+             "bordering constellations": ["Betelgeuse", "Bellatrix"],
+             "brightest star": "Orion Nebula "
+       },
+       {
+             "id": 12,
+             "name": "Orion",
+             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OrionProper.gif/220px-OrionProper.gif",
+             "area":  "594 sq. deg",
+             "visibility": "Best visible at 21:00 (9 p.m.) during the month of Januaryl",
+             "bordering constellations": ["Gemini", "Taurus", "Eridanus", "Lepus","Monoceros"],
+             "brightest star": "Rigel"
+      },
+       {
+        "id": 13,
+        "name": "Gemini",
+        "image": "https://cdn.mos.cms.futurecdn.net/sJrwBiEseoTdEnTXxJoV7j-320-80.jpg",
+        "area": "514 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+        "bordering constellations": ["Persaus", "Triangulum"],
+        "brightest star": "pollux"
+       },
+        {
+             "id": 14,
+             "name": "Sagittarius",
+             "image": "https://cdn.mos.cms.futurecdn.net/JFgaRHV2yLuEvgr5YU2qZn-1024-80.jpg.webp",
+             "area": "867 sq deg",
+             "visibility": "Best visible at 21:00 (9 p.m.) during the month of March..",
+             "bordering constellations": ["Scorpio", "Aquila"],
+             "brightest star": "Epsilon Sagittarii"
+        },
+     {
+        "id": 15,
+        "name": "Leo",
+        "image": "https://earthsky.org/upl/2021/04/Leo-constellation-Derekscope-e1618236661588.png",
+        "area": "947 sq. deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of April.",
+        "bordering constellations": ["SUrsa Major"],
+        "brightest star": "Regulus"
+
+        },
+     {
+        "id": 16,
+        "name": "Lyra",
+        "image": "https://skyandtelescope.org/wp-content/uploads/Lyra-deep-exposure-June-14-2021-S.jpg",
+        "area": "286 sq. deg.",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of August.",
+        "bordering constellations": ["Draco","Hercules","Velpecula","Cygnus"],
+        "brightest star": "Vega"
+
+        },
+     {
+        "id": 17,
+        "name": "Corona Borealis",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Corona_Borealis_IAU.svg",
+        "area": "179 sq. deg.",
+        "visibility": "Best visible in the northern hemisphere in the spring and summer.",
+        "bordering constellations": ["Hercules" , "Serpens", "Caput"],
+        "brightest star": "Alphecca"
+
+        },
+      {
+        "id": 20,
+        "name": "Libra",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/LibraCC.jpg",
+        "area": "	538 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of June",
+        "bordering constellations": ["Virgo","Hydra","Lupus"],
+        "brightest star": "Zubeneschamali "
+
+        },
+
+        {
+        "id": 21,
+        "name": "Corvus",
+        "image": "https://image.shutterstock.com/image-vector/corvus-the-raven-constellation-vector-260nw-1290799108.jpg",
+        "area": "	184 sq. deg",
+        "visibility": "Best visible at latitudes between +60° and -90° and is best seen at culmination during the month of May.",
+        "bordering constellations": ["Virgo", "Crater", "Hydra"],
+        "brightest star": "γ Crv"
+    },
+       {
+        "id": 22,
+        "name": "Caelum",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fcaelum-constellation-starry-night-sky-cluster-vector-26494365&psig=AOvVaw1cOCANbexCpSulS6kKYy2R&ust=1633159425705000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDDqI3XqPMCFQAAAAAdAAAAABAD",
+        "area": "125 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of January",
+        "bordering constellations": ["Columba","Lepus","Dorado","Eridanus"],
+        "brightest star": "α Cae "
+
+    },
+       {
+        "id": 23,
+        "name": "Puppis",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PuppisCC.jpg/300px-PuppisCC.jpg",
+        "area": "	673 sq. deg",
+        "visibility": "It can be seen from January through May and is visible at latitudes between 40 degrees and -90 degrees",
+        "bordering constellations": ["Carina","Canis Major","Columba"],
+        "brightest star": "Zeta"
+       },
+
+        
+      {
+        "id": 24,
+        "name": "Oreon",
+        "image": "https://www.shutterstock.com/search/orion+constellation",
+        "area": "	345 sq deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of march",
+        "bordering constellations": ["Columba","Lepus","Dorado","Eridanus"],
+        "brightest star": "Regulus "
+        },
+     {
+        "id": 29,
+        "name": "perseus",
+        "image": "shorturl.at/xAHT9",
+        "area": "	600 sq. deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of December",
+        "bordering constellations": ["Aris", "Taurus", "Andromeda", "Auriga"],
+        "brightest star": "	α per"
+    },
+   {
+        "id": 30,
+        "name": "Pisces",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/PiscesCC.jpg",
+        "area": "889 sq. deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of November.",
+        "bordering constellations": ["Triangulum","Andromeda","Pegasus","Aquarius","Cetus","Aries"],
+        "brightest star": "η Psc"
+    },
+
+    {
+        "id": 31,
+        "name": "Boötes",
+        "image": "https://www.constellation-guide.com/wp-content/uploads/2021/07/Bootes-constellation-map-530x640.webp",
+        "area": "907 sq. deg",
+        "visibility": " best visible at 9 p.m. during the month of June.",
+        "bordering constellations": ["Virgo", "Coma Berenices", "Canes Venatici","Hercules", "Corona Borealis","Serpens Caput"],
+        "brightest star": "Arcturus"
+    },
+     
+
+{
+
+        "id": 32,
+        "name": "Vela",
+        "image": "https://www.constellation-guide.com/wp-content/uploads/2021/09/Vela-constellation-map.webp",
+        "area": "500 sq. deg",
+        "visibility": "Best visible at 21:00 (9 p.m.) during the month of March",
+        "bordering constellations": [" Antlia", "Carina", "Centaurus", "Puppis", "Pyxis"],
+        "brightest star": "Gamma Velorum"
+     },
+     {
+        "id": 33,
+        "name": "Vulpecula",
+        "image": "https://www.constellation-guide.com/wp-content/uploads/2021/08/Vulpecula-constellation-map.webp",
+        "area": "268 sq. deg",
+        "visibility": "Best visible during Fall,the month of September",
+        "bordering constellations": ["Cygnus", "Delphinus", "Hercules", "Lyra", "Pegasus","Sagitta"],
+        "brightest star": " α Vulpeculae"
+
+    },
+{
+        "id": 31,
+        "name": "Hydra",
+        "image": "https://en.wikipedia.org/wiki/Hydra_(constellation)#/media/File:Hydra_IAU.svg",
+        "area": "1303 sq. deg. ",
+        "visibility": " Best visible at 21:00 (9 p.m.) during the month of April.",
+        "bordering constellations": ["Antlia", "Cancer", "Canis Minor", "Centaurus", "Corvus", "Leo", "Libra"],
+        "brightest star": "Alphard"
+    },
+     {
+        "id": 34,
+        "name": "Vulp",
+        "image": "https://www.constellation-guide.com/wp-content/uploads/2021/08/Vulpecula-constellation-map.webp",
+        "area": "288 sq. deg",
+        "visibility": "Best visible during Fall,the month of October",
+        "bordering constellations": ["Cygnus", "Delphinus", "Hercules", "Lyra", "Pegasus","Sagitta"],
+        "brightest star": " α Vulp"
+
+    },
+
+     {
+        "id": 85,
+        "name": "Columba",
+        "image": "https://th.bing.com/th/id/OIP.MvZ4GB_KbFj-t7B6zC5UZAHaFg?pid=ImgDet&rs=1",
+        "area": "270 sq. deg",
+        "visibility": "easily visible to all viewers at latitudes between +45° and -90°. Columba contains one star brighter than magnitude 3 and it is called Alpha Columbae, or Phact",
+        "bordering constellations": ["Caelum", "Canis Major", "Lepus", "Pictor","Puppis"],
+        "brightest star": "Phact"
+},
+     
+    {
+        "id": 35,
+        "name": "Capricornus",
+        "image": "https://starregistration.net/constellations/capricornus-constellation.html",
+        "area": "414 sq deg",
+        "visibility": "Capricornus appears in the night sky from June through October in the Southern Hemisphere and from August until November in the Northern Hemisphere. ",
+        "bordering constellations": ["Aquarius" "Aquila" "Sagittarius" "Microscopium" "Piscis" "Austrinus"],
+        "brightest star": "Delta Capricorni"
+
+
+    },
+      {
+        "id": 36,
+        "name": " Delphinus",
+        "image": "https://theplanets.org/123/2021/03/Delphinus-1.png",
+        "area": "189 sq deg",
+        "visibility": "The constellation Delphinus, the dolphin, is visible in late summer from the Northern Hemisphere. It can be seen at latitudes between 90 degrees and -70 degrees.",
+        "bordering constellations": ["Vulpecula" "Aquila" "Sagitta" " Aquarius" "Equuleus" "Pegasus"],
+        "brightest star": "Rotanev"
+
+
+    },
+      {
+        "id": 37,
+        "name": "Herdsman",
+        "image": "https://search.brave.com/images?origin=search&q=Herdsman%20constellation",
+        "area": "189 sq deg",
+        "visibility": "the constellation is dominated by the Kite, a diamond-shaped asterism formed by its brightest stars.",
+        "bordering constellations": ["Vulpecula" "Aquila" "Sagitta" " Aquarius" "Equuleus" "Pegasus"],
+        "brightest star": "asterism"
+
+
+    },
+           {
+        "id": 38,
+        "name": "Pyxis",
+        "image": "data:image/jpeg;base64,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",
+        "area": "221 sq deg",
+        "visibility": "It is completely visible at latitudes south of 530 degrees from January through March",
+        "bordering constellations": ["Hydra", "Puppis", "Vela", "Antlia"],
+        "brightest star": "asterism"
+
+
+    },
+    {
+        "id": 39,
+        "name": "Cygnus",
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.universetoday.com%2Fwp-content%2Fuploads%2F2017%2F01%2FCygnus-KIC9832227-e1483705807860-1280x720.gif&imgrefurl=https%3A%2F%2Fwww.universetoday.com%2F20569%2Fcygnus-constellation%2F&tbnid=rX8jmAQNf7b0XM&vet=12ahUKEwiAsK2XzPb6AhWIgGMGHQJ_BY8QMygEegUIARDuAQ..i&docid=iWsPmgCMDXiKBM&w=1280&h=720&q=cygnus%20constellation&ved=2ahUKEwiAsK2XzPb6AhWIgGMGHQJ_BY8QMygEegUIARDuAQ",
+        "area": "804 sq deg",
+        "visibility": "Cygnus contains Deneb (ذنب, translit. ḏanab, tail) – one of the brightest stars in the night sky and the most distant first-magnitude star – as its  and one corner of the Summer Triangle.",
+        "bordering constellations": [" Cygnus is bordered by Cepheus to the north and east, Draco to the north and west, Lyra to the west, Vulpecula to the south, Pegasus to the southeast and Lacerta to the east.s"],
+        "brightest star": "Deneb"
+
+
+    },
+     {
+        "id": 40,
+        "name": "Ursa Major",
+        "image": "https://littleastronomy.com/wp-content/uploads/2019/05/ursa_major_cover.jpg",
+        "area": "1280 sq deg",
+        "visibility": " visible throughout the year from most of the northern hemisphere.",
+        "bordering constellations": ["Draco", "Boötes ", "Canes Venatici", "Coma Berenices", "Leo and Leo Minor", "Lynx ", "Camelopardalis "],
+        "brightest star": "Dubhe"
+    },
+
     
-   
 ]
