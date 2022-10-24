@@ -340,7 +340,16 @@
         "brightest star": "Deneb"
 
 
-    }
+    },
+     {
+        "id": 40,
+        "name": "Ursa Major",
+        "image": "https://littleastronomy.com/wp-content/uploads/2019/05/ursa_major_cover.jpg",
+        "area": "1280 sq deg",
+        "visibility": " visible throughout the year from most of the northern hemisphere.",
+        "bordering constellations": ["Draco", "Boötes ", "Canes Venatici", "Coma Berenices", "Leo and Leo Minor", "Lynx ", "Camelopardalis "],
+        "brightest star": "Dubhe"
+    },
 
     
 ]
